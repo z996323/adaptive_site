@@ -462,6 +462,8 @@
 
 .main-project {
     width: 100%;
+    padding: 0px 360px;
+    box-sizing: border-box;
 }
 
 .main-project-title {
@@ -520,11 +522,11 @@
 }
 
 .card-wrapper-top {
-    width: 100%;
+    /* width: 100%; */
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    padding: 0px 360px;
+    /* padding: 0px 360px; */
 }
 
 .card {
